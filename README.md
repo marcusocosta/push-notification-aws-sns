@@ -1,1 +1,1 @@
-# push-notification-aws-sns
+# push-notification-aws-sns [![Code Climate](https://codeclimate.com/github/marcusocosta/push-notification-aws-sns/badges/gpa.svg)](https://codeclimate.com/github/marcusocosta/push-notification-aws-sns)
